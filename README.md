@@ -18,3 +18,7 @@
 
 4.关闭抢自己的群红包功能
 给自己发送消息:关闭抢自己群红包
+
+
+###详解
+http://blog.csdn.net/jiajiayouba/article/details/51353808
